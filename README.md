@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BIO one-word domains still available to buy.
 
-This dataset contains 3,645 .BIO one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,669 .BIO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BIO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bio-oneword-domains&utm_content=description.top) (3,414) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.BIO one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/bio-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/bio-oneword-domains/blob/main/bio.csv"><b>⬇️ CSV (3.65K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/bio-oneword-domains/blob/main/bio.json"><b>⬇️ JSON (3.65K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/bio-oneword-domains/blob/main/bio.csv"><b>⬇️ CSV (3.67K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/bio-oneword-domains/blob/main/bio.json"><b>⬇️ JSON (3.67K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bio-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.41K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.bio  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.bio      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.bio  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.bio    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.bio     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.bio   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.bio     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.bio    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.bio   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.bio  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.bio  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.bio | available | 56       | 1%     | 10     |           |         |         |
-| abducens.bio   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.bio   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.bio  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.bio    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.bio | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.bio   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.bio    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.bio  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.bio    | available | 106      | 5%     | 7      |           |         |         |
-| abient.bio     | available | 54       | 1%     | 6      |           |         |         |
-| abject.bio     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.bio     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.bio  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.bio     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.bio  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.bio    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.bio   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.bio     | available | 72       | 6%     | 6      |           |         |         |
+| Domain         | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
+| -------------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
+| aaa.bio        | resell    | 70       | 38%    | 3      | Sav.com, LLC - 5 | 17/01/2025 15:15 | 17/01/2026 15:15 |
+| abactinal.bio  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abaft.bio      | available | 43       | 2%     | 5      |                  |                  |                  |
+| abandoned.bio  | available | 58       | 10%    | 9      |                  |                  |                  |
+| abashed.bio    | available | 60       | 2%     | 7      |                  |                  |                  |
+| abasic.bio     | available | 54       | 2%     | 6      |                  |                  |                  |
+| abatable.bio   | available | 54       | 1%     | 8      |                  |                  |                  |
+| abatic.bio     | available | 54       | 2%     | 6      |                  |                  |                  |
+| abaxial.bio    | available | 54       | 2%     | 7      |                  |                  |                  |
+| abbatial.bio   | available | 50       | 1%     | 8      |                  |                  |                  |
+| abc.bio        | available | 102      | 41%    | 3      |                  |                  |                  |
+| abdicable.bio  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abdominal.bio  | available | 82       | 1%     | 9      |                  |                  |                  |
+| abdominous.bio | available | 56       | 1%     | 10     |                  |                  |                  |
+| abducens.bio   | available | 54       | 1%     | 8      |                  |                  |                  |
+| abducent.bio   | available | 68       | 1%     | 8      |                  |                  |                  |
+| abducting.bio  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abenaki.bio    | available | 82       | 3%     | 7      |                  |                  |                  |
+| aberdonian.bio | available | 68       | 1%     | 10     |                  |                  |                  |
+| aberrant.bio   | available | 74       | 7%     | 8      |                  |                  |                  |
+| abeyant.bio    | available | 56       | 2%     | 7      |                  |                  |                  |
+| abhorrent.bio  | available | 54       | 1%     | 9      |                  |                  |                  |
+| abiding.bio    | available | 106      | 5%     | 7      |                  |                  |                  |
+| abient.bio     | available | 54       | 1%     | 6      |                  |                  |                  |
+| abject.bio     | available | 94       | 8%     | 6      |                  |                  |                  |
+| abkhas.bio     | available | 68       | 1%     | 6      |                  |                  |                  |
+| abkhasian.bio  | available | 78       | 1%     | 9      |                  |                  |                  |
+| abkhaz.bio     | available | 82       | 2%     | 6      |                  |                  |                  |
+| abkhazian.bio  | available | 78       | 1%     | 9      |                  |                  |                  |
+| ablated.bio    | available | 52       | 2%     | 7      |                  |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/bio-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/bio-oneword-domains/blob/main/bio.csv"><b>⬇️ CSV (3.65K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/bio-oneword-domains/blob/main/bio.json"><b>⬇️ JSON (3.65K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/bio-oneword-domains/blob/main/bio.csv"><b>⬇️ CSV (3.67K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/bio-oneword-domains/blob/main/bio.json"><b>⬇️ JSON (3.67K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bio-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.41K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
