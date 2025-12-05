@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BIO one-word domains still available to buy.
 
-This dataset contains 3,800 .BIO one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,796 .BIO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BIO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bio-oneword-domains&utm_content=description.top) (3,800) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BIO one word domains]
 | aaa.bio        | resell    | 70       | 38%    | 3      | Sav.com, LLC - 5 | 17/01/2025 15:15 | 17/01/2026 15:15 |
 | abactinal.bio  | available | 50       | 1%     | 9      |                  |                  |                  |
 | abaft.bio      | available | 43       | 2%     | 5      |                  |                  |                  |
-| abandoned.bio  | available | 58       | 10%    | 9      |                  |                  |                  |
+| abandoned.bio  | available | 58       | 7%     | 9      |                  |                  |                  |
 | abashed.bio    | available | 60       | 2%     | 7      |                  |                  |                  |
 | abasic.bio     | available | 54       | 2%     | 6      |                  |                  |                  |
 | abatable.bio   | available | 54       | 1%     | 8      |                  |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.BIO one word domains]
 | abbatial.bio   | available | 50       | 1%     | 8      |                  |                  |                  |
 | abc.bio        | available | 102      | 41%    | 3      |                  |                  |                  |
 | abdicable.bio  | available | 50       | 1%     | 9      |                  |                  |                  |
-| abdominal.bio  | available | 82       | 1%     | 9      |                  |                  |                  |
+| abdominal.bio  | available | 82       | 5%     | 9      |                  |                  |                  |
 | abdominous.bio | available | 56       | 1%     | 10     |                  |                  |                  |
 | abducens.bio   | available | 54       | 1%     | 8      |                  |                  |                  |
 | abducent.bio   | available | 68       | 1%     | 8      |                  |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.BIO one word domains]
 | aberdonian.bio | available | 68       | 1%     | 10     |                  |                  |                  |
 | aberrant.bio   | available | 74       | 7%     | 8      |                  |                  |                  |
 | abeyant.bio    | available | 56       | 2%     | 7      |                  |                  |                  |
-| abhorrent.bio  | available | 54       | 1%     | 9      |                  |                  |                  |
+| abhorrent.bio  | available | 54       | 3%     | 9      |                  |                  |                  |
 | abiding.bio    | available | 106      | 5%     | 7      |                  |                  |                  |
 | abient.bio     | available | 54       | 1%     | 6      |                  |                  |                  |
 | abject.bio     | available | 94       | 8%     | 6      |                  |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BIO one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
