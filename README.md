@@ -71,19 +71,19 @@ print(df.head())
 | farmers.bio      | resell    | —         | —             | 54             | 59     | 7      | Tucows Domains Inc.                                       |
 | Cats.bio         | premium   | $700      | $700          | 59             | 33     | 4      | namecheap                                                 |
 | loans.bio        | available | $9.99     | —             | 58             | 24     | 5      | name.com                                                  |
-| haven.bio        | resell    | —         | —             | 68             | 43     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| haven.bio        | resell    | —         | —             | 68             | 44     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | boats.bio        | premium   | $123.75   | —             | 52             | 24     | 5      | name.com                                                  |
 | CapeCod.bio      | available | $84.98    | —             | 78             | 22     | 8      | namecheap                                                 |
 | coins.bio        | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc                                               |
 | products.bio     | premium   | $82.50    | —             | 60             | 23     | 8      | name.com                                                  |
 | Places.bio       | available | $84.98    | —             | 74             | 22     | 6      | namecheap                                                 |
-| shadow.bio       | resell    | —         | —             | 60             | 39     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| prompts.bio      | resell    | —         | —             | 54             | 39     | 7      | NameCheap, Inc.                                           |
 | apartments.bio   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo                                                  |
 | stadia.bio       | available | $9.99     | —             | 66             | 22     | 6      | name.com                                                  |
-| prompts.bio      | resell    | —         | —             | 54             | 39     | 7      | NameCheap, Inc.                                           |
+| evil.bio         | resell    | —         | —             | 70             | 38     | 4      | Spaceship, Inc.                                           |
 | restaurants.bio  | premium   | $123.75   | —             | 57             | 21     | 11     | name.com                                                  |
 | treeoflife.bio   | available | $9.99     | —             | 88             | 21     | 12     | name.com                                                  |
-| evil.bio         | resell    | —         | —             | 70             | 38     | 4      | Spaceship, Inc.                                           |
+| shadow.bio       | resell    | —         | —             | 60             | 38     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
