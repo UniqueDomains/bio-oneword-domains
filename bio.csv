@@ -515,6 +515,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 34b424fa-62d9-4f52-9539-7a753e6ca3fd,goodcheer.bio,available,9.99,,60,2,10,name.com,,
 34c2e2ed-87dd-4ed8-9d53-95349ad77abd,beridof.bio,available,9.99,,46,1,9,name.com,,
 34c3acda-b32a-4e9d-a29e-64d2b56b36ef,scootover.bio,available,9.99,,66,2,10,name.com,,
+34cc7a47-2001-439e-8ac9-dd708c3cd48d,getopen.bio,available,130.8,,77,3,8,"Name.com, Inc.",02/04/2025 16:22,02/04/2027 16:22
 34e4eb69-bbdc-4225-b7ec-4435917712c0,divineguidance.bio,available,9.99,,57,4,15,name.com,,
 34fb06dd-9f14-41b0-af5e-04e5d441a7de,SuezCanal.bio,available,84.98,,58,3,10,namecheap,,
 350ca6ae-3540-45b9-92ce-98e044f98722,counterattack.bio,available,9.99,,64,3,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5fc1ffc8-6d7e-430f-81e7-2c1ed541eab8,havethefloor.bio,available,9.99,,64,1,14,name.com,,
 5fea6853-599c-425d-bf2f-0d339079b3ce,topfive.bio,available,9.99,,52,9,8,name.com,,
 5feb109b-3f7e-4514-be25-4bd389ce099a,amplifying.bio,available,9.99,,56,3,10,name.com,,
-5fec77c8-3b24-4b72-b95b-937d726af6aa,transmitted.bio,available,9.99,,64,1,11,name.com,,
