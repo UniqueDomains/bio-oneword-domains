@@ -123,7 +123,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0c75b6dc-463d-45f4-b3f2-a17a4c926e15,letsomethingslip.bio,available,9.99,,67,1,18,name.com,,
 0c903c47-0ed4-4592-a1f5-66b5571f4fa5,rubbed.bio,available,9.99,,62,2,6,name.com,,
 0ca50a36-5de4-4164-aa57-045ada6f98be,dryers.bio,available,9.99,,54,5,6,name.com,,
-0cb2d20e-180f-4e1f-926b-84c90e8de411,gogreen.bio,resell,,,56,28,8,"Spaceship, Inc.",07/03/2026 06:31,07/03/2027 06:31
+0cb2d20e-180f-4e1f-926b-84c90e8de411,gogreen.bio,resell,,,56,19,8,"Spaceship, Inc.",07/03/2026 06:31,07/03/2027 06:31
 0cc3e59f-cd2b-4225-954e-11b9fd73a9f5,vowels.bio,available,9.99,,52,5,6,name.com,,
 0cc7821a-aadb-40f9-9082-f4aa76122807,welds.bio,available,9.99,,59,4,5,name.com,,
 0ccadc12-8da2-43f7-beba-81fe95b20b4c,assoonaspossible.bio,available,9.99,,50,1,19,name.com,,
@@ -361,7 +361,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 254badcd-25ba-4fd0-b68e-e43e4152f7a5,moveup.bio,available,9.99,,79,14,7,name.com,,
 2552ed3b-725a-4f8b-a02d-a094d0493426,stoppers.bio,available,9.99,,52,3,8,name.com,,
 255818f0-156b-49d0-88df-6ac7cb409015,hosts.bio,available,9.99,,52,18,5,name.com,,
-256dda0a-2fca-4729-b628-ff9f2b982aef,treeoflife.bio,available,9.99,,88,21,12,name.com,,
+256dda0a-2fca-4729-b628-ff9f2b982aef,treeoflife.bio,available,9.99,,88,13,12,name.com,,
 257d9046-3026-4470-8dd7-80d0b677ca5f,alcoholpoisoning.bio,available,9.99,,48,1,17,name.com,,
 25a27396-a04e-47df-b9dd-0ef0f2c4bd5e,Ihavecancer.bio,available,84.98,,44,2,13,namecheap,,
 25aee67a-a159-4fd8-bac2-dafe7ff48e63,instride.bio,available,9.99,,72,5,9,name.com,,
