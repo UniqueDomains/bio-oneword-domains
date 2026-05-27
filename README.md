@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bio one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,612 domains · **Median ask:** $43.08 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/bio`  
 **Best for:** founders, investors, studios
 
@@ -73,10 +73,10 @@ print(df.head())
 | loans.bio        | available | $9.99     | —             | 58             | 24     | 5      | name.com                                                  |
 | haven.bio        | resell    | —         | —             | 68             | 44     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | boats.bio        | premium   | $123.75   | —             | 52             | 24     | 5      | name.com                                                  |
-| CapeCod.bio      | available | $84.98    | —             | 78             | 22     | 8      | namecheap                                                 |
+| Places.bio       | available | $84.98    | —             | 74             | 23     | 6      | namecheap                                                 |
 | coins.bio        | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc                                               |
 | products.bio     | premium   | $82.50    | —             | 60             | 23     | 8      | name.com                                                  |
-| Places.bio       | available | $84.98    | —             | 74             | 22     | 6      | namecheap                                                 |
+| CapeCod.bio      | available | $84.98    | —             | 78             | 22     | 8      | namecheap                                                 |
 | prompts.bio      | resell    | —         | —             | 54             | 39     | 7      | NameCheap, Inc.                                           |
 | apartments.bio   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo                                                  |
 | backbone.bio     | available | $9.99     | —             | 72             | 22     | 9      | name.com                                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
