@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .bio one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,612 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,612 domains · **Median ask:** $43.08 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,612 domains · **Median ask:** $32.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/bio`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| heroes.bio       | available | $9.99     | —             | 68             | 29     | 6      | name.com                                                  |
-| online.bio       | resell    | —         | —             | 70             | 62     | 7      | DNSPod, Inc.                                              |
-| home.bio         | premium   | $3,136.56 | —             | 90             | 61     | 4      | Vautron Rechenzentrum AG                                  |
-| commonground.bio | available | $9.99     | —             | 74             | 28     | 13     | name.com                                                  |
-| farmers.bio      | resell    | —         | —             | 54             | 59     | 7      | Tucows Domains Inc.                                       |
-| Cats.bio         | premium   | $700      | $700          | 59             | 33     | 4      | namecheap                                                 |
-| loans.bio        | available | $9.99     | —             | 58             | 24     | 5      | name.com                                                  |
-| haven.bio        | resell    | —         | —             | 68             | 44     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| boats.bio        | premium   | $123.75   | —             | 52             | 24     | 5      | name.com                                                  |
-| Places.bio       | available | $84.98    | —             | 74             | 23     | 6      | namecheap                                                 |
-| coins.bio        | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc                                               |
-| products.bio     | premium   | $82.50    | —             | 60             | 23     | 8      | name.com                                                  |
-| CapeCod.bio      | available | $84.98    | —             | 78             | 22     | 8      | namecheap                                                 |
-| prompts.bio      | resell    | —         | —             | 54             | 39     | 7      | NameCheap, Inc.                                           |
-| apartments.bio   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo                                                  |
-| backbone.bio     | available | $9.99     | —             | 72             | 22     | 9      | name.com                                                  |
-| evil.bio         | resell    | —         | —             | 70             | 38     | 4      | Spaceship, Inc.                                           |
-| restaurants.bio  | premium   | $123.75   | —             | 57             | 21     | 11     | name.com                                                  |
-| stadia.bio       | available | $9.99     | —             | 66             | 22     | 6      | name.com                                                  |
-| shadow.bio       | resell    | —         | —             | 60             | 38     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| discipline.bio    | available | $9.99     | —             | 92             | 15     | 10     | name.com                                                  |
+| stuff.bio         | resell    | —         | —             | 100            | 24     | 5      | NameCheap, Inc.                                           |
+| entertain.bio     | available | $9.99     | —             | 92             | 10     | 9      | name.com                                                  |
+| flexing.bio       | available | $9.99     | —             | 80             | 6      | 7      | name.com                                                  |
+| righteous.bio     | available | $9.99     | —             | 91             | 11     | 9      | name.com                                                  |
+| barbeque.bio      | available | $9.99     | —             | 100            | 8      | 8      | name.com                                                  |
+| luncheon.bio      | available | $9.99     | —             | 96             | 3      | 8      | name.com                                                  |
+| whizz.bio         | available | $9.99     | $99.99        | 98             | 10     | 5      | name.com                                                  |
+| downtown.bio      | resell    | —         | —             | 94             | 20     | 8      | Dynadot Inc                                               |
+| seeing.bio        | available | $9.99     | —             | 98             | 10     | 6      | name.com                                                  |
+| poster.bio        | premium   | $118.80   | $118.80       | 92             | 23     | 6      | namesilo                                                  |
+| version.bio       | available | $9.99     | —             | 94             | 16     | 7      | name.com                                                  |
+| blooddonation.bio | available | $9.99     | —             | 82             | 2      | 14     | name.com                                                  |
+| game.bio          | resell    | —         | —             | 120            | 50     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bigmoney.bio      | available | $9.99     | —             | 88             | 10     | 9      | name.com                                                  |
+| bot.bio           | resell    | —         | —             | 80             | 58     | 3      | Spaceship, Inc.                                           |
+| woman.bio         | premium   | $118.80   | $118.80       | 112            | 23     | 5      | namesilo                                                  |
+| asian.bio         | premium   | $123.75   | —             | 82             | 26     | 5      | name.com                                                  |
+| theme.bio         | available | $9.99     | —             | 94             | 23     | 5      | name.com                                                  |
+| Microsoft.bio     | premium   | —         | —             | 112            | 30     | 9      | —                                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
