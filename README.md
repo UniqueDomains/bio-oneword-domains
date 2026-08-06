@@ -1,10 +1,10 @@
-# Available .BIO One-Word Domains (10,612)
+# Available .BIO One-Word Domains (10,631)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C612%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C631%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .bio one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,612 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,631 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,612 domains · **Median ask:** $32.36 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,631 domains · **Median ask:** $29.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/bio`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bio`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BIO one-word domain c
 
 ### Files
 
-- `bio.csv` — public CSV extract (1,000 rows)
-- `bio.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bio.csv`, public CSV extract (1,000 rows)
+- `bio.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| discipline.bio    | available | $9.99     | —             | 92             | 15     | 10     | name.com                                                  |
-| stuff.bio         | resell    | —         | —             | 100            | 24     | 5      | NameCheap, Inc.                                           |
-| entertain.bio     | available | $9.99     | —             | 92             | 10     | 9      | name.com                                                  |
-| flexing.bio       | available | $9.99     | —             | 80             | 6      | 7      | name.com                                                  |
-| righteous.bio     | available | $9.99     | —             | 91             | 11     | 9      | name.com                                                  |
-| barbeque.bio      | available | $9.99     | —             | 100            | 8      | 8      | name.com                                                  |
-| luncheon.bio      | available | $9.99     | —             | 96             | 3      | 8      | name.com                                                  |
-| whizz.bio         | available | $9.99     | $99.99        | 98             | 10     | 5      | name.com                                                  |
-| downtown.bio      | resell    | —         | —             | 94             | 20     | 8      | Dynadot Inc                                               |
-| seeing.bio        | available | $9.99     | —             | 98             | 10     | 6      | name.com                                                  |
-| poster.bio        | premium   | $118.80   | $118.80       | 92             | 23     | 6      | namesilo                                                  |
-| version.bio       | available | $9.99     | —             | 94             | 16     | 7      | name.com                                                  |
-| blooddonation.bio | available | $9.99     | —             | 82             | 2      | 14     | name.com                                                  |
-| game.bio          | resell    | —         | —             | 120            | 50     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| bigmoney.bio      | available | $9.99     | —             | 88             | 10     | 9      | name.com                                                  |
-| bot.bio           | resell    | —         | —             | 80             | 58     | 3      | Spaceship, Inc.                                           |
-| woman.bio         | premium   | $118.80   | $118.80       | 112            | 23     | 5      | namesilo                                                  |
-| asian.bio         | premium   | $123.75   | —             | 82             | 26     | 5      | name.com                                                  |
-| theme.bio         | available | $9.99     | —             | 94             | 23     | 5      | name.com                                                  |
-| Microsoft.bio     | premium   | —         | —             | 112            | 30     | 9      | —                                                         |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| period.bio | available | $9.99     | —             | high           | low    | 6      | name.com                                                  |
+| game.bio   | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| colour.bio | available | $9.99     | —             | high           | low    | 6      | name.com                                                  |
+| aft.bio    | available | $5.98     | $84.98        | low            | low    | 3      | namecheap                                                 |
+| bot.bio    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| ala.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| ate.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| fig.bio    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                              |
+| Ann.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| few.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| fin.bio    | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC - 7                                          |
+| lol.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| NWO.bio    | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
+| him.bio    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 39                                         |
+| mop.bio    | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
+| NYT.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| pig.bio    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| rod.bio    | premium   | $123.75   | —             | medium         | low    | 3      | name.com                                                  |
+| suv.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| pin.bio    | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,612 live domains                        |
+| 1,000-row public sample | 10,631 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .bio domains. The range runs from broad dictionary words such as discipline.bio and downtown.bio to more playful or expressive options like whizz.bio and flexing.bio. For founders, the main question is whether the word feels credible, easy to say, and specific enough to support a real brand. For investors, the key test is whether the word has clear resale appeal within the narrower .bio extension and whether the ask leaves room for a sensible spread. With a median ask of 42.85, low entry price can help, but weak clarity, awkward tone, or limited end-user fit can still reduce quality.
+This selection covers one-word .bio domains exclusively. Most names — 8,988 of 10,631 — carry an ask price under $500, with a median ask near $29. Status is mostly available (9,883), alongside premium (211) and resale (537) listings. Demand skews low across the set, with only 15 domains reaching the top 15% demand tier, so evaluating price against buyer intent matters before shortlisting.
 
-- Prefer words that are easy to spell, say, and remember
-- Check whether the word fits health, science, or personal bio use
-- Low ask can help, but weak .bio fit can limit resale appeal
-- Avoid words with unclear meaning or possible trademark friction
+- 10,631 one-word .bio domains, most under $500 to buy
+- Median ask near $29 across the full .bio selection
+- 9,883 available, 211 premium, 537 resale listings
+- Only 15 domains rank in the top 15% demand tier
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
