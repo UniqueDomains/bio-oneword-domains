@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bio one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,161 domains · **Median ask:** $19.01 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/bio`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| aft.bio    | available | $5.98     | $84.98        | low            | low    | 3      | namecheap                                    |
-| script.bio | resell    | $5,908.29 | —             | medium         | low    | 6      | Sav.com, LLC - 33                            |
-| ala.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| ate.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                     |
-| bot.bio    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                              |
-| Ann.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| few.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                     |
-| fig.bio    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                 |
-| lol.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| NWO.bio    | available | $9.99     | —             | medium         | low    | 3      | name.com                                     |
-| fin.bio    | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC - 7                             |
-| mop.bio    | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
-| NYT.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                     |
-| him.bio    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 39                            |
-| rod.bio    | premium   | $123.75   | —             | medium         | low    | 3      | name.com                                     |
-| suv.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                     |
-| pig.bio    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| sum.bio    | premium   | $5,736.20 | $99.99        | medium         | low    | 3      | Sav.com, LLC - 37                            |
-| tho.bio    | available | $9.99     | —             | medium         | low    | 3      | name.com                                     |
-| pin.bio    | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| period.bio | available | $9.99     | —             | high           | low    | 6      | name.com                                                  |
+| game.bio   | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| colour.bio | available | $9.99     | —             | high           | low    | 6      | name.com                                                  |
+| aft.bio    | available | $5.98     | $84.98        | low            | low    | 3      | namecheap                                                 |
+| script.bio | resell    | $5,908.29 | —             | medium         | low    | 6      | Sav.com, LLC - 33                                         |
+| ala.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| ate.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| bot.bio    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| Ann.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| few.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| fig.bio    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                              |
+| lol.bio    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| NWO.bio    | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
+| fin.bio    | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC - 7                                          |
+| mop.bio    | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
+| NYT.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| him.bio    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 39                                         |
+| rod.bio    | premium   | $123.75   | —             | medium         | low    | 3      | name.com                                                  |
+| suv.bio    | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| pig.bio    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
