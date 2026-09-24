@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bio one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,883 domains · **Median ask:** $13.86 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/bio`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | sum.bio       | resell    | $5,736.20 | $99.99        | low            | low    | 3      | name.com          |
 | ala.bio       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | ate.bio       | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| script.bio    | resell    | $5,908.29 | —             | medium         | low    | 6      | Sav.com, LLC - 33 |
+| bush.bio      | resell    | $9.99     | —             | low            | low    | 4      | name.com          |
 | ann.bio       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | few.bio       | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| aesthetic.bio | resell    | $9.99     | —             | medium         | low    | 9      | name.com          |
+| script.bio    | resell    | $5,908.29 | —             | medium         | low    | 6      | Sav.com, LLC - 33 |
 | lol.bio       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | nwo.bio       | available | $9.99     | —             | medium         | low    | 3      | name.com          |
-| bot.bio       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| british.bio   | resell    | $9.99     | —             | medium         | low    | 7      | name.com          |
 | mop.bio       | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
 | nyt.bio       | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| fin.bio       | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC - 7  |
+| aesthetic.bio | resell    | $9.99     | —             | medium         | low    | 9      | name.com          |
 | rod.bio       | premium   | $123.75   | —             | medium         | low    | 3      | name.com          |
 | suv.bio       | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| him.bio       | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 39 |
+| bot.bio       | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.   |
 | laws.bio      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo          |
 | tho.bio       | available | $9.99     | —             | medium         | low    | 3      | name.com          |
-| pin.bio       | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.   |
+| fin.bio       | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC - 7  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
